@@ -1,0 +1,135 @@
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe.config
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.pdb
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Form1.resources
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Properties.Resources.resources
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.exe
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.pdb
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\ZedGraph.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\ZedGraph.xml
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CopyComplete
+C:\Users\HP\source\repos\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.dothihienthi.resources
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe.config
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.pdb
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\ZedGraph.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\ZedGraph.xml
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\de\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\es\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\fr\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\hu\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\it\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\ja\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\pt\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\ru\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\sk\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\sv\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\tr\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.AssemblyReference.cache
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.dothihienthi.resources
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Form1.resources
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Properties.Resources.resources
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.GenerateResource.cache
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CoreCompileInputs.cache
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CopyComplete
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.exe
+D:\DO_AN\SORFWARE BTL2\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.pdb
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe.config
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.pdb
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\ZedGraph.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\ZedGraph.xml
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.AssemblyReference.cache
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.dothihienthi.resources
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Form1.resources
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Properties.Resources.resources
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.GenerateResource.cache
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CoreCompileInputs.cache
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CopyComplete
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.exe
+D:\Documents\firmware moi\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.pdb
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe.config
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.pdb
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\ZedGraph.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\ZedGraph.xml
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\de\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\es\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\fr\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\hu\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\it\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\ja\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\pt\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\ru\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\sk\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\sv\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\tr\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.AssemblyReference.cache
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.dothihienthi.resources
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Form1.resources
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Properties.Resources.resources
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.GenerateResource.cache
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CoreCompileInputs.cache
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CopyComplete
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.exe
+D:\COM 4\BT_GIAO_TIEP_WEBSERVER\SORFWARE BTL2_WEB_nhap\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.pdb
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe.config
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.exe
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\SORFWARE BTL2.pdb
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\ZedGraph.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\ZedGraph.xml
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\de\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\es\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\fr\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\hu\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\it\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\ja\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\pt\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\ru\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\sk\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\sv\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\tr\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.AssemblyReference.cache
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.dothihienthi.resources
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Form1.resources
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE_BTL2.Properties.Resources.resources
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.GenerateResource.cache
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CoreCompileInputs.cache
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.csproj.CopyComplete
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.exe
+D:\DO_AN\DO_AN_NEW_2404\SORFWARE BTL2_WEB_NEW\SORFWARE BTL2\obj\Debug\SORFWARE BTL2.pdb
